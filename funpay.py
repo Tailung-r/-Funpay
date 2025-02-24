@@ -1,7 +1,7 @@
 from FunPayAPI import Account, Runner, types, enums
 import os
 import json
-TOKEN = ""
+TOKEN = "golden key"
 
 file_path = os.path.join(os.path.dirname(__file__), 'processed_chats.json')
 
